@@ -1,0 +1,10 @@
+data/raw/*
+data/processed/*
+data/augmented/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/augmented/.gitkeep
+weights/*
+!weights/.gitkeep
+logs/*
+!logs/.gitkeep
