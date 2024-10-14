@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaungHtetCho-22&theme=dark&show_icons=true)
+
 # Guitar Chord Detection
 
 This project implements a deep learning model for detecting guitar chords from audio input.
